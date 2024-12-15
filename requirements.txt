@@ -1,0 +1,5 @@
+pyarrow==18.1.0
+pandas
+faker
+unitycatalog-client
+python-dotenv
