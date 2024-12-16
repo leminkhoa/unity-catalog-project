@@ -23,7 +23,7 @@ bin/uc table create \
         membership STRING", \
         last_processed_ts TIMESTAMP \
     --format DELTA \
-    --storage_location "${WORKING_FOLDER}/storage/uc_${CATALOG}/${RAW_SCHEMA}/customers" \
+    --storage_location "${STORAGE_FOLDER}/uc_${CATALOG}/${RAW_SCHEMA}/customers" \
     --properties '{"domain": "customer"}'
 
 
@@ -38,7 +38,7 @@ bin/uc table create \
         store_id STRING", \
         last_processed_ts TIMESTAMP \
     --format DELTA \
-    --storage_location "${WORKING_FOLDER}/storage/uc_${CATALOG}/${RAW_SCHEMA}/staffs" \
+    --storage_location "${STORAGE_FOLDER}/uc_${CATALOG}/${RAW_SCHEMA}/staffs" \
     --properties '{"domain": "staff"}'
 
 
@@ -52,7 +52,7 @@ bin/uc table create \
         email STRING, \
         last_processed_ts TIMESTAMP" \
     --format DELTA \
-    --storage_location "${WORKING_FOLDER}/storage/uc_${CATALOG}/${RAW_SCHEMA}/stores" \
+    --storage_location "${STORAGE_FOLDER}/uc_${CATALOG}/${RAW_SCHEMA}/stores" \
     --properties '{"domain": "store"}'
 
 # Create tables
@@ -65,7 +65,7 @@ bin/uc table create \
         unit_price LONG, \
         last_processed_ts TIMESTAMP" \
     --format DELTA \
-    --storage_location "${WORKING_FOLDER}/storage/uc_${CATALOG}/${RAW_SCHEMA}/products" \
+    --storage_location "${STORAGE_FOLDER}/uc_${CATALOG}/${RAW_SCHEMA}/products" \
     --properties '{"domain": "product"}'
 
 
@@ -83,5 +83,5 @@ bin/uc table create \
         utc_dt STRING, \
         last_processed_ts TIMESTAMP" \
     --format DELTA \
-    --storage_location "${WORKING_FOLDER}/storage/uc_${CATALOG}/${RAW_SCHEMA}/transactions" \
+    --storage_location "${STORAGE_FOLDER}/uc_${CATALOG}/${RAW_SCHEMA}/transactions" \
     --properties '{"domain": "transaction"}'

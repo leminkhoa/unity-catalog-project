@@ -10,8 +10,9 @@ env = load_dotenv()
 
 if __name__ == "__main__":
     # Get env
-    catalog     = os.getenv("CATALOG")
-    raw_schema  = os.getenv("RAW_SCHEMA")
+    catalog         = os.getenv("CATALOG")
+    raw_schema      = os.getenv("RAW_SCHEMA")
+    storage_folder  = os.getenv("STORAGE_FOLDER")
 
     # generate transactions
     store_data          = generate_stores(20)
@@ -31,9 +32,9 @@ if __name__ == "__main__":
     
 
     # Volume paths
-    volumn_json_files   = f"storage/uc_{catalog}/{raw_schema}/_volumes/json_files"
-    volumn_txt_files    = f"storage/uc_{catalog}/{raw_schema}/_volumes/txt_files"
-    parquet_files       = "source"
+    volumn_json_files   = f"{storage_folder}/uc_{catalog}/{raw_schema}/_volumes/json_files"
+    volumn_txt_files    = f"{storage_folder}/uc_{catalog}/{raw_schema}/_volumes/txt_files"
+    parquet_files       = f"{storage_folder}/other_sources"
 
     
     pd.DataFrame(customer_data).to_csv(
