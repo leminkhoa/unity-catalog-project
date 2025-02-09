@@ -1,0 +1,101 @@
+customer_id,gender,first_name,last_name,email,yob,phone_number,job,address,first_transaction,membership
+bd533dd9efaf41b3a4d6aa34a51c7c6e,female,Daisy,Daniels,daisy_daniels@cortez.com,1999-01-26,763-707-8670,Personal assistant,0764 Kaylee Crossroad Apt. 539,2025-01-26,standard
+04c6fdc855954b669be9fdc7b31f18ff,male,Stephen,Brooks,stephen_brooks@sanford.com,1967-09-14,(769)706-2321,Ship broker,322 Donna Freeway,2025-02-06,gold
+42e41101d82a4155a974c9677d6ea3cd,male,Brent,Ruiz,brent_ruiz@andrews-lewis.org,1987-11-26,853-755-7478,Ship broker,47906 Le Field,2025-02-05,gold
+39204480124f4bd69409cc76f0464548,male,Casey,Levy,casey_levy@richardson-blake.gov,1969-10-22,(611)313-3926x92680,Theatre director,701 Rachel Mews Suite 444,2025-01-31,gold
+f9a4b789b45e40f89c42e33db398b20d,male,Todd,Evans,todd_evans@chandler-gonzales.org,1969-06-01,001-570-241-1868,Agricultural engineer,3031 Shepard Branch,2025-02-03,platinum
+eb005d1b44ed49818e860799f4fdf115,female,Theresa,Myers,theresa_myers@suarez-harris.gov,1988-11-09,+1-944-868-8064x5417,Media planner,3096 Ryan Parks Apt. 256,2025-01-26,diamond
+ce0426f6a1ee466bb4c0252855cbffce,female,Rebecca,Lopez,rebecca_lopez@jones.gov,1997-11-01,956.790.5723,"Engineer, manufacturing",44580 Lauren Ways Apt. 615,2025-02-03,gold
+d732a9a6b3b44778905ec25b7d5ce15d,female,Vanessa,Gilbert,vanessa_gilbert@campbell-hardin.com,1977-08-09,(753)292-7124,"Presenter, broadcasting",698 Richard Station Suite 224,2025-02-05,standard
+b6aacb470bff48bab594a5c5e5fed684,male,Derrick,Reyes,derrick_reyes@berry-holmes.org,1999-08-16,+1-557-398-6042,Insurance underwriter,25028 Baker Mountains,2025-02-04,standard
+e3d301d44f8e43fcadd4d74862a66428,male,Darrell,Gillespie,darrell_gillespie@shah-price.com,1986-11-24,398.334.3527,IT technical support officer,781 Hicks Underpass,2025-02-02,platinum
+b5ca95490f854b0ca9f03c181bd927f7,male,Brandon,Adams,brandon_adams@meyer-sims.gov,1978-10-29,783.886.1476x94231,Control and instrumentation engineer,20821 Lisa Crossroad,2025-02-05,standard
+b48b9caeb90646eca90792aabf97b992,male,Jonathan,Brown,jonathan_brown@blake-carrillo.com,1978-02-19,6097204369,Operational investment banker,589 Robinson Ports Apt. 909,2025-02-04,standard
+92bae1ed0149455f953ddce4d3162d48,female,Tammy,Peterson,tammy_peterson@shaffer-evans.gov,1993-12-01,+1-303-544-5716x1661,Make,794 Butler Knoll,2025-01-28,standard
+3eaeafad6327463fba8a177dab0e63a8,male,Matthew,Taylor,matthew_taylor@thomas.com,1966-02-17,+1-904-668-2062,Sports development officer,6803 Hoffman Loaf,2025-01-31,standard
+ad6d75bce41842718b2068d9b9aba42b,female,Pamela,Stafford,pamela_stafford@alexander.gov,1983-07-24,001-485-592-4203x8910,Field seismologist,177 Bradshaw Street Suite 430,2025-02-05,standard
+25792165ce0b4083bf7102712a5d16f9,male,Brian,Kerr,brian_kerr@robinson.org,1997-10-18,+1-534-565-4682,Chartered accountant,25308 Troy Ford,2025-02-07,gold
+ad993840994740909d75bfc7c5278aca,female,Pamela,Griffin,pamela_griffin@goodman.com,1988-12-13,4283760546,Accommodation manager,481 Kathleen Underpass,2025-02-07,platinum
+1b6fae259c5947e585cffc1440dfb576,female,Brittany,Lynch,brittany_lynch@velez.com,1989-12-07,600-382-4033x9350,Mental health nurse,413 Davis Radial Apt. 859,2025-02-05,standard
+b8ac82e95de84b799d31749d986bf6d4,male,Michael,Perez,michael_perez@shah.gov,2006-02-12,001-815-540-1300x200,Product manager,993 Williams Circles Suite 252,2025-02-03,gold
+254106175f0f48428c9a08029626a987,male,John,Smith,john_smith@smith.com,1994-10-19,728.454.4687x4783,Biomedical scientist,402 Conner Island Suite 711,2025-01-29,gold
+ba3971a49a834d1e8b5cea634b7b09b2,male,Dalton,Taylor,dalton_taylor@ramirez-pierce.org,1984-03-07,948.354.9913x53977,Fish farm manager,021 Jared Landing,2025-02-07,gold
+d629b767fbb14161812dab3a2adf1295,female,Amanda,Medina,amanda_medina@jones.org,1974-07-03,788-210-9858,Dentist,244 Lawrence Hill Suite 923,2025-01-29,standard
+06c42070850b48828dec0afe03e621d4,female,Julia,Thompson,julia_thompson@fox.org,1994-09-20,001-287-406-0299x849,Careers information officer,95196 White Ranch Suite 652,2025-01-26,standard
+380f16faf42043118b6c75ebd653c1c9,female,Catherine,Cain,catherine_cain@young.gov,1972-07-05,(714)823-3341,Interior and spatial designer,034 Alicia Burgs,2025-02-06,gold
+9d938e89e7444b9393141266e7ce37a2,female,Linda,Webster,linda_webster@hansen.gov,2005-09-04,2495208478,Radio producer,321 Hart View,2025-02-01,gold
+e2629c2c2fdc404fb4f039586b6ad6c2,female,Kayla,Thomas,kayla_thomas@elliott.org,1972-10-16,+1-245-746-1778x152,"Administrator, sports",2245 Buchanan Highway Suite 467,2025-01-30,platinum
+bdec4155977448438f6d6b76cf9c42b3,male,Philip,Miller,philip_miller@atkinson.org,1975-12-22,626-742-0452,Media buyer,63047 Renee Highway,2025-02-03,standard
+e047202af3e543649aa6d4112c51da85,female,Tiffany,Camacho,tiffany_camacho@krause.gov,2004-11-20,387.615.6685x35490,Industrial buyer,4670 Davis Center Apt. 726,2025-02-05,platinum
+a9252af3d93e45bb8d172e9c3d7ea7f7,female,Lori,Khan,lori_khan@cooper-carr.org,1996-06-12,001-202-584-4825x27166,Advertising copywriter,52980 Roberts Mountains,2025-02-04,platinum
+3d21136c895348ef831fead70912e101,male,Matthew,Garcia,matthew_garcia@tyler.org,1990-03-25,908.427.4881x0792,Acupuncturist,10113 Angela Canyon Suite 132,2025-01-27,gold
+d5528144b93f4c34bb1ae56ae3382dcf,female,Kelly,Martin,kelly_martin@manning.org,2002-11-27,001-825-906-5660x34666,IT consultant,489 John Stravenue Suite 698,2025-02-07,standard
+e61c67e99c00421e908b70ac61a1d060,female,Connie,Mejia,connie_mejia@robertson-lester.gov,1995-04-05,6692638526,"Lecturer, further education",27919 Sarah Viaduct,2025-02-07,diamond
+adcf4394431c4554a88d2f6e478b482d,female,Elizabeth,Allen,elizabeth_allen@fisher-bowen.gov,1969-12-10,722.378.2641,"Engineer, land",07527 Davis Crossroad Apt. 192,2025-02-06,gold
+408c150a496f4c41b756dfce53053272,male,Brian,Thomas,brian_thomas@sanchez.org,1979-06-26,397-428-2574,"Geologist, wellsite",25248 James Vista,2025-02-04,standard
+0479a3f4e0f747688c267ba9199642c4,female,Misty,Sanchez,misty_sanchez@martin-romero.com,1974-06-09,604-416-3721,Television/film/video producer,7254 Mccarthy Run,2025-02-07,gold
+b0dff0de76504717b35bfe4c7ac2ee94,male,Anthony,Davis,anthony_davis@griffith-collins.gov,1987-05-03,+1-673-703-0417x3466,Financial planner,823 Hernandez Knoll Apt. 509,2025-01-28,platinum
+208865a68a364744b7564d41ea6a5147,female,Allison,Smith,allison_smith@white.gov,1997-01-18,001-335-484-2037,"Designer, industrial/product",0886 Jessica Roads,2025-01-28,standard
+0043613dfdfc40eba3fdc8383c5bd531,male,Colin,Smith,colin_smith@hawkins.com,1970-02-03,275-204-8126x87198,Advertising account executive,530 Nguyen Park Suite 751,2025-02-02,standard
+5a60d6f5e7334a9fb434603908c7d970,female,Danielle,Romero,danielle_romero@cross.com,1993-01-03,611-800-3580x77573,Science writer,64049 Brenda Plaza Apt. 452,2025-01-29,gold
+0c92f8c81718407e80067aedc24895c0,male,Kyle,Olson,kyle_olson@jones.org,1988-03-06,(667)467-3829,Theme park manager,6428 Mcdonald Walk,2025-01-26,standard
+bdf3cfd0b46a4693b1d5dfa49c6fc69a,male,Marc,Bennett,marc_bennett@hood.gov,1985-12-13,(942)420-2087,"Production designer, theatre/television/film",67706 Garrison Junction Suite 084,2025-02-02,platinum
+8d2c56ee86a5413484dda311280af1b9,male,Mark,Mays,mark_mays@avery.com,2006-01-21,884.554.6776,Tax adviser,1881 Kathryn Isle Suite 680,2025-02-06,gold
+0770286ffc7b4ca6b58c897f2a9500be,female,Brianna,Duarte,brianna_duarte@kim.org,2006-09-27,001-570-528-2679x31242,Gaffer,713 Harris Streets Suite 701,2025-02-04,gold
+1183cdf2f5e34a0c9bd7ec278101757d,female,Angelica,Taylor,angelica_taylor@jimenez-garcia.org,1970-05-16,706-834-0276x2032,"Engineer, manufacturing systems",19928 Kennedy Rue Apt. 327,2025-01-26,standard
+458c6644e7604408bcc1313e61d7d7e4,female,Donna,Jackson,donna_jackson@williams.org,1988-07-07,(630)299-5705x383,"Buyer, industrial",01200 Anderson Mountains Suite 733,2025-02-05,standard
+1dac00dd56af4604890324731015dfc6,male,Zachary,Tucker,zachary_tucker@lynch.com,1969-02-23,303.893.5284x24327,Architectural technologist,6169 Samantha Port,2025-02-04,gold
+fb99473f04a845608ffb53addb36b7f8,male,Charles,Coleman,charles_coleman@herrera.org,1980-09-28,394-894-4426x38480,Financial adviser,762 Jacob Motorway,2025-02-03,platinum
+72904a8bbcc3461695dddeb4ca4602a0,female,Deborah,Diaz,deborah_diaz@mullins.gov,1989-06-24,+1-912-525-2195x19573,Trade mark attorney,3904 Andrew Road,2025-02-05,standard
+a510cefa28dd49ac9ad56d789e1d353b,female,Rachel,Proctor,rachel_proctor@pena-bailey.gov,1984-11-14,+1-307-578-4405x995,Banker,58826 Esparza Island,2025-01-29,standard
+2d8837b38182447eaf16a22dc938c87f,male,Daniel,Wood,daniel_wood@burke.com,1992-10-14,866-648-3880x93463,General practice doctor,791 Morris Square Suite 190,2025-01-28,gold
+50523a4e80e54e49a491a03bab11d2b6,female,Nicole,Jones,nicole_jones@sims.org,1964-06-26,208.949.3643x4224,"Designer, textile",9488 Ricky Lane,2025-01-28,gold
+c9be837efebf4294939bfba0cd16436a,male,David,Yang,david_yang@walker-carr.gov,1968-03-28,+1-292-978-1829,"Producer, radio",84555 Andrew Knoll Suite 017,2025-01-29,standard
+6f134b5666494290b2a3abf7fe14f35d,female,Mariah,Harris,mariah_harris@nguyen.org,1985-11-16,001-915-200-8400x2548,Dealer,0463 Sanchez Glen,2025-02-07,gold
+dac583a7fcdf4bba9acc81e14e56cd46,male,Brian,Nelson,brian_nelson@brown.com,2002-06-12,001-931-333-0512x450,Mudlogger,602 Walker Rapid,2025-02-06,platinum
+5a6cf3e4dc064a67b4eec151e4363e30,male,Eric,Estrada,eric_estrada@meza.com,1992-01-10,768.555.9867,Investment analyst,10783 Weaver Pike Suite 982,2025-02-03,standard
+4415bc0eab9f4480b0e280d0d7ad4e6d,male,Robert,Obrien,robert_obrien@pugh-hall.gov,1999-10-14,+1-300-460-3388x9828,"Teacher, music",0609 Danielle Inlet Suite 504,2025-02-06,platinum
+cefcaaa375bc4bea8dd3e44ffe8b5d30,male,James,Holland,james_holland@carr.com,1993-10-16,605.213.4119x64244,Forensic scientist,799 Alison Stream,2025-02-07,standard
+c6d09c161eff45bb92c68682cf965c63,male,James,Morgan,james_morgan@smith.com,1968-09-04,001-856-969-4737x22490,Information systems manager,090 Michael Circle,2025-01-28,gold
+31d487734779415485217f96c33b5473,female,Angela,Reeves,angela_reeves@freeman.org,1973-08-02,001-239-518-0085x333,Editorial assistant,6564 Jesus Cape,2025-02-03,standard
+eb9de0b7316f40db8cbbdfefcb6bf158,male,Victor,Gentry,victor_gentry@martin.gov,2003-04-27,933.619.6063x38642,Food technologist,49292 Brown Mill,2025-01-30,diamond
+240b23f5166f487a9cae1f49c0e9aaef,female,Regina,Sharp,regina_sharp@huber.org,1968-03-26,001-832-456-7989x59549,Telecommunications researcher,9708 French Drive,2025-01-29,gold
+8da6b606bc474b0d826fa44fa3720620,male,Christopher,Kaufman,christopher_kaufman@gray-simmons.org,1990-06-06,001-889-562-3611x0095,Public librarian,9986 Jessica Fords Apt. 671,2025-02-02,standard
+55420795558e4a67ab484adbaecea326,male,James,Griffin,james_griffin@larson.gov,1974-01-20,+1-271-344-9765x836,Software engineer,443 Dawn Junctions,2025-02-06,gold
+a6c0780f0b1641b0a37b2c0c01e1a7cc,male,Christopher,Orozco,christopher_orozco@thompson.com,2003-06-14,(534)946-9608,"Engineer, aeronautical",000 Mcdonald Ports,2025-02-04,platinum
+c03344343852470e82cebb322ae14db9,male,Jose,Ramos,jose_ramos@watts.org,1984-01-19,2282937296,Comptroller,34539 Williams Plains Apt. 149,2025-02-05,gold
+71e64809a2424ca6a54f4c7cb66ea486,female,Rebecca,Tran,rebecca_tran@williams.gov,2001-03-03,(382)880-3906x546,Mining engineer,84352 Montoya Trail,2025-02-06,platinum
+b956c8191c7047378cf78d3c1794189e,male,Jeffery,Nguyen,jeffery_nguyen@garcia-aguilar.com,2002-04-06,700-663-7097,Quality manager,024 Michael Walks Apt. 874,2025-02-02,platinum
+759f1a5289e94f19866a85769b867c04,male,Robert,Price,robert_price@schmidt.com,2002-03-29,+1-564-446-0980x3812,Education administrator,607 Samuel Burg,2025-02-05,platinum
+5522c81a2d6648ceac4821712c96bed8,male,Daniel,Murray,daniel_murray@hanson.gov,1993-02-02,260-532-6301x05660,Occupational psychologist,2456 Micheal Crossroad Suite 241,2025-02-04,gold
+03c31b328dee403da8687255d634fd1d,female,Leslie,Bush,leslie_bush@sutton.org,1981-09-29,578.980.9657x8953,English as a second language teacher,63260 Tammy Vista Apt. 324,2025-01-30,standard
+e54cad7c84a94ed8b86d9177587d0b4b,male,Raymond,Burke,raymond_burke@fox-hartman.org,1981-04-25,(955)642-2048,Archaeologist,995 Herrera Wall,2025-01-26,gold
+00c5fbb7ae46425894528058c0fa6f5e,female,Julia,Wiggins,julia_wiggins@norton.gov,1996-07-21,647-949-5264,"Engineer, agricultural",1324 April Stravenue,2025-01-26,diamond
+95f544ba45cb4057bf895d432643febf,female,Jessica,Campos,jessica_campos@potts.org,1996-05-02,543.802.4340x19242,"Surveyor, mining",08931 Collin Isle,2025-02-07,gold
+4ad508cdbfa94aa0afe94d4bb4a3c536,male,Robert,Thomas,robert_thomas@tapia.gov,1964-04-05,366-961-6317x41151,Medical secretary,62939 Allen Stravenue Apt. 867,2025-02-01,gold
+037c7b8203a54b5f87c6dd19c819959d,male,David,Rodriguez,david_rodriguez@davis.org,1992-11-03,(259)222-4969,Haematologist,795 Julian Stravenue,2025-01-29,standard
+a02318198f1f4584a25e5ba7c20bfd7c,male,Roger,Harvey,roger_harvey@collins-murphy.com,1973-08-05,4487655753,Health and safety inspector,293 Diana Drives,2025-01-27,standard
+4648594aa9a64fc0b0a6c45b61f241fb,female,Sarah,Burke,sarah_burke@beltran-dominguez.org,2004-05-25,580-757-5915x55798,Diagnostic radiographer,940 Matthews Burg,2025-01-28,gold
+f5099fd4b1e64c88b1ded74a6d0331b6,male,Christopher,Lamb,christopher_lamb@ellis.com,1966-11-08,754-362-8619,Soil scientist,5868 Hernandez Village Apt. 130,2025-01-30,gold
+90dbdb789fb349cfa2cafa8bc8c5fc2b,female,Jessica,Shepard,jessica_shepard@chambers-miller.org,1972-04-02,+1-790-451-6269x68084,Production engineer,2853 Hernandez Mission Apt. 635,2025-01-26,platinum
+0dd4a0b38e6541d986e6c1a0e536e31e,male,William,Calhoun,william_calhoun@grant-hernandez.gov,2001-09-11,001-598-393-0194x463,Land,968 Hess Prairie,2025-01-28,standard
+658b160068ce4f10afb4c0f3c7b7c9eb,female,Lisa,Williams,lisa_williams@arias-sandoval.gov,1996-08-02,633-218-4797x4728,Printmaker,98700 Garcia Knolls Apt. 907,2025-01-29,gold
+8d7378ada10b4bf0b325ce4950916bad,male,Kevin,Buck,kevin_buck@choi.com,1975-01-03,001-841-984-8854x950,"Designer, jewellery",32983 Tonya Row,2025-02-01,standard
+0709bcae40904ef3b8ebd8487024495a,female,Carrie,Lee,carrie_lee@torres.org,1998-06-02,+1-682-639-0177,Social worker,1135 Nicole Ferry Suite 530,2025-02-01,platinum
+2d81ffaa3b924dceaba83b3bf63773d2,female,Sandra,Williams,sandra_williams@summers.com,1975-01-20,811.593.9252x69166,Electronics engineer,4308 Justin Cove Apt. 174,2025-01-27,standard
+4da4af1b59f54e309d05621099ef947f,male,Anthony,Howard,anthony_howard@carr-morrow.com,2005-06-11,001-514-835-1938x3798,Geographical information systems officer,339 Morgan Prairie Suite 968,2025-02-01,standard
+ab3f5243072d480fabe3087d6a7a5121,female,Lauren,Chandler,lauren_chandler@wright-smith.com,1987-03-20,+1-944-830-1071x2221,Forensic scientist,56155 Kayla Dam,2025-01-30,gold
+fd0272c813b9499dab95af5c59aec9f8,female,Megan,Smith,megan_smith@wells-brown.org,1972-01-15,9477205883,Advertising copywriter,3311 Pratt Villages,2025-02-03,standard
+1d07f7baf7094d00a5a0ba6b2043572e,male,Sean,Warner,sean_warner@lester.com,1991-04-02,230-972-9999x451,Software engineer,14172 Tina Path Apt. 696,2025-01-30,gold
+fbce51d818d34074ac561fe5b0358502,female,Kayla,Harris,kayla_harris@lawrence.gov,1982-06-05,850.389.4956x0613,"Designer, textile",3057 Morris Route,2025-02-04,gold
+ebf64ce2fc5049b69470bed6bf3cc47f,male,Bryan,Mata,bryan_mata@cole.com,1991-09-11,001-530-566-8046x739,Drilling engineer,0574 Warner Village Apt. 666,2025-02-06,standard
+0eb9d195df624776b268b2ff6ed27a14,female,Lisa,Boyd,lisa_boyd@higgins.gov,1973-01-28,963.471.3497x53498,"Engineer, production",437 Herrera Mission Apt. 046,2025-01-27,standard
+0470b0067a014f58b69c6d04d32c2cda,female,Emily,Lawrence,emily_lawrence@reyes.com,1992-04-09,965.732.8131,Control and instrumentation engineer,583 Tyler Row,2025-02-05,standard
+28520c522bdc41baa3e1b019edf62c8e,female,Stephanie,Foster,stephanie_foster@green-delgado.org,1969-12-23,504-558-3248x007,Outdoor activities/education manager,0154 Snyder Lodge,2025-01-31,standard
+1be322340ddf484fb4493c880db6d0b1,female,Jessica,Harvey,jessica_harvey@yang-butler.org,2001-01-29,9933470556,Advertising copywriter,81908 Navarro Tunnel,2025-01-30,gold
+0bbfe8891f28414f9ae630ed8903fc36,female,Hannah,Wood,hannah_wood@miller.gov,1973-10-22,325-807-1539x3932,"Designer, fashion/clothing",9697 Edward Motorway,2025-02-04,standard
+8e48bfe60883476c9b3636ef869bd097,female,Tina,Spencer,tina_spencer@burke-white.gov,2001-07-06,4343732081,Occupational hygienist,34733 Villarreal Coves,2025-02-07,platinum
+18632dc175504e3eba5a0e30765e39e3,female,Angela,Johnson,angela_johnson@jenkins.org,2000-06-09,701.863.0567x4066,Heritage manager,3318 David Highway,2025-02-06,standard
+da6aafd209ff40dea14254bf7a84f906,female,Monique,Contreras,monique_contreras@moran.com,1992-09-15,+1-652-469-4033x529,Meteorologist,9863 Walker Prairie Apt. 923,2025-02-01,standard
+81bd3875c8ca42db974103e80af00669,male,Brent,Taylor,brent_taylor@watts.gov,1988-04-17,001-582-350-7426,Magazine journalist,1192 Jacob Union,2025-01-30,platinum
+be90019dbfe34f40ae83dd41dc5f7c81,male,Joshua,Ryan,joshua_ryan@sanford.org,1970-03-01,(472)590-2651,Passenger transport manager,4601 Bryan Pines Apt. 711,2025-02-02,standard

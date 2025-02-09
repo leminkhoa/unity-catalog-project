@@ -1,0 +1,7 @@
+pandas==2.2.3
+pyarrow==19.0.0
+faker==35.2.0
+python-dotenv==1.0.1
+delta-spark==3.3.0
+jupyterlab==4.3.5
+PyYAML==6.0.2
