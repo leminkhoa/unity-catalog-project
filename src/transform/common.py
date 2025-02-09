@@ -1,6 +1,7 @@
 from pyspark.sql.functions import current_timestamp
 from jinja2 import Template
 
+
 def add_processing_ts(df):
     df = df.withColumn("last_processed_ts", current_timestamp())
     return df

@@ -1,0 +1,17 @@
+store:
+  number_of_records: 20
+
+customer:
+  number_of_records: 100
+
+staff:
+  number_of_records: 12
+
+product:
+  number_of_records: 35
+
+transaction:
+  number_of_records: 500
+  transaction_range: ["2024-11-01", "2024-11-08"]
+  max_item_per_transaction: 5
+  max_quantity_per_item: 2

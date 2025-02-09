@@ -3,7 +3,6 @@ from datetime import datetime, timedelta
 
 from faker import Faker
 from .custom_providers import *
-from src import utils
 
 
 faker = Faker(use_weighting=True)
